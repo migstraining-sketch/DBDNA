@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1777356411,
+	"Version": 1777419296,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2429,7 +2429,7 @@
 		{
 			"Name": "The Trickster",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
