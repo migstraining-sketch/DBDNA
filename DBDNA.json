@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1780267832,
+	"Version": 1781048958,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -9,6 +9,8 @@
 			"SurvivorIndvPerkBans": [
 				"306",
 				"3",
+				"285",
+				"5",
 				"52",
 				"7",
 				"300",
@@ -63,6 +65,8 @@
 				"295",
 				"75",
 				"77",
+				"79",
+				"81",
 				"82",
 				"83",
 				"84",
@@ -80,6 +84,7 @@
 				"275",
 				"105",
 				"110",
+				"263",
 				"111",
 				"260",
 				"114",
@@ -4027,6 +4032,57 @@
 			"IsDisabled": true,
 			"Map": [
 				"8"
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
+		},
+		{
+			"Name": "The Slasher",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
 			],
 			"BalanceTiers": [
 				0
