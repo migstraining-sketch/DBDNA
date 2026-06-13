@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1781048958,
+	"Version": 1781372096,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2235,7 +2235,9 @@
 					"297"
 				]
 			],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"96"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
