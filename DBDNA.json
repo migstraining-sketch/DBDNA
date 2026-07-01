@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1782798737,
+	"Version": 1782875079,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -4105,10 +4105,41 @@
 				0
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"170"
+			],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
-			"SurvivorComboPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"1",
+				"21",
+				"246",
+				"27",
+				"273",
+				"34",
+				"38",
+				"39",
+				"279",
+				"50",
+				"294",
+				"57",
+				"58",
+				"61",
+				"76",
+				"80",
+				"96",
+				"92",
+				"102",
+				"109",
+				"121",
+				"127",
+				"36"
+			],
+			"SurvivorComboPerkBans": [
+				[
+					"95",
+					"37"
+				]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -4116,7 +4147,12 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				858,
-				857
+				857,
+				855,
+				845,
+				851,
+				846,
+				852
 			],
 			"ItemWhitelist": [
 				5,
@@ -4128,7 +4164,9 @@
 				},
 				"Flashlight": {
 					"Addons": [
+						1,
 						2,
+						3,
 						4
 					]
 				},
