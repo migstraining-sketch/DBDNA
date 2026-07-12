@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1783439936,
+	"Version": 1783897937,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -373,7 +373,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"6"
+				"10"
 			],
 			"BalanceTiers": [
 				0
@@ -2004,7 +2004,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"8"
 			],
 			"BalanceTiers": [
 				0
@@ -2692,7 +2692,7 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"5"
+				"8"
 			],
 			"BalanceTiers": [
 				0
