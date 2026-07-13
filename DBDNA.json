@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1783897937,
+	"Version": 1783981849,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -4107,7 +4107,10 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"170"
+				"170",
+				"299",
+				"181",
+				"184"
 			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
