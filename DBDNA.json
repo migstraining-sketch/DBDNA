@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1783981849,
+	"Version": 1784528089,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1618,6 +1618,7 @@
 				"101",
 				"50",
 				"294",
+				"53",
 				"57",
 				"58",
 				"61",
@@ -2331,7 +2332,7 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"4"
 			],
@@ -3578,7 +3579,7 @@
 		{
 			"Name": "The Dark Lord",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"16"
 			],
