@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1784528089,
+	"Version": 1792882742,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -24,6 +24,7 @@
 				"18",
 				"247",
 				"19",
+				"318",
 				"20",
 				"73",
 				"22",
@@ -51,6 +52,7 @@
 				"308",
 				"49",
 				"51",
+				"319",
 				"262",
 				"54",
 				"55",
@@ -83,6 +85,7 @@
 				"96",
 				"296",
 				"98",
+				"320",
 				"99",
 				"100",
 				"103",
@@ -116,11 +119,13 @@
 				"245",
 				"138",
 				"140",
+				"315",
 				"147",
 				"149",
 				"150",
 				"153",
 				"155",
+				"266",
 				"162",
 				"163",
 				"244",
@@ -139,6 +144,7 @@
 				"180",
 				"310",
 				"183",
+				"316",
 				"264",
 				"186",
 				"188",
@@ -170,7 +176,12 @@
 				"242"
 			],
 			"SurvivorComboPerkBans": [],
-			"KillerComboPerkBans": []
+			"KillerComboPerkBans": [
+				[
+					"157",
+					"317"
+				]
+			]
 		}
 	],
 	"KillerOverride": [
@@ -384,8 +395,11 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
 				"170",
+				"317",
 				"151",
-				"220"
+				"219",
+				"220",
+				"250"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -499,9 +513,12 @@
 				"132",
 				"170",
 				"184",
+				"317",
 				"151",
 				"208",
-				"220"
+				"219",
+				"220",
+				"250"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -1377,7 +1394,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"170"
+				"170",
+				"317"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -2234,8 +2252,11 @@
 				"170",
 				"172",
 				"184",
+				"317",
 				"151",
-				"220"
+				"219",
+				"220",
+				"250"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -3579,7 +3600,7 @@
 		{
 			"Name": "The Dark Lord",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"16"
 			],
@@ -3591,7 +3612,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"170"
+				"170",
+				"317"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -3801,7 +3823,8 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
-				"170"
+				"170",
+				"317"
 			],
 			"KillerComboPerkBans": [
 				[
@@ -4200,6 +4223,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
