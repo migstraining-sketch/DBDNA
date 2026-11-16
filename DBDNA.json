@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1792882742,
+	"Version": 1794788340,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -4227,7 +4227,7 @@
 		{
 			"Name": "The Judgment",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
