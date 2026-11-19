@@ -1,6 +1,6 @@
 {
 	"Name": "DBDNA",
-	"Version": 1794791993,
+	"Version": 1795048795,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1359,7 +1359,21 @@
 				217,
 				218,
 				212,
-				213
+				213,
+				199,
+				200,
+				201,
+				202,
+				204,
+				205,
+				207,
+				208,
+				209,
+				210,
+				211,
+				214,
+				215,
+				216
 			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
